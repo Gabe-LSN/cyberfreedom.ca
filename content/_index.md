@@ -24,8 +24,4 @@ Learn how to [get started](/how/getting-started/)
 - RSS Feeds
 - Separate theme
 - Write how-tos
-- Partials
-
-    - Images
-    - Video
-    - Embeds
+- Update shortcodes & partials
