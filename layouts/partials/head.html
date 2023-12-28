@@ -1,0 +1,5 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+<link rel="stylesheet" href="/theme.css?d={{.Date.Unix}}">
+<script defer data-domain="cyberfreedom.ca" src="https://plausible.libresolutions.network/js/script.js"></script>

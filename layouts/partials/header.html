@@ -1,0 +1,12 @@
+<header>
+    <a href='{{if eq "fr" .Language.Lang }}/{{.Language.Lang}}{{end}}/'><img src="/logo.webp" style="max-height:5rem;"></a>
+    <h1>{{.Site.Title}}</h1>
+    <nav>
+        {{ partial "language-picker" .}}
+    </nav>
+    <nav>{{ range .Site.Sections.ByWeight}}
+        <a href="{{.Permalink}}">
+            <h2>{{.Title}}</h2>
+        </a> {{end}}
+    </nav>
+</header>
