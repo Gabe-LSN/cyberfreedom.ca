@@ -19,7 +19,7 @@ Learn how to [get started](/how/getting-started/)
 
 ### To Do:
 - ✅ Properly setup repository
-- Test Webhook
+- ✅ Test Webhook
 - Setup Github push/pull
 - RSS Feeds
 - Separate theme
