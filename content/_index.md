@@ -18,8 +18,10 @@ Learn how to [get started](/how/getting-started/)
 - [Open Media](https://openmedia.org/)
 
 ### To Do:
+- ✅ Properly setup repository
+- Test Webhook
+- Setup Github push/pull
 - RSS Feeds
-- Properly setup repository
 - Separate theme
 - Write how-tos
 - Partials
