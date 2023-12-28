@@ -1,0 +1,3 @@
+[submodule "themes/justice"]
+	path = themes/justice
+	url = https://code.gabe.rocks/gabriel/justice.git

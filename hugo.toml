@@ -1,0 +1,12 @@
+baseURL = 'https://cyberfreedom.ca'
+title = 'Cyber Freedom Canada'
+theme = "justice"
+[languages]
+  [languages.en]
+    languageCode = 'en-ca'
+    languageName = 'English'
+  [languages.fr]
+    languageCode = 'fr-ca'
+    languageName = 'Francais'
+    contentDir = 'content-fr'
+    title = "Cyberliberté Canada"
