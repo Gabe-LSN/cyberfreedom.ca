@@ -25,7 +25,7 @@ Learn how to [get started](/how/getting-started/)
 - Create demo videos
 - Update shortcodes & partials
 - RSS Feeds
-- ✅ Setup Github push/pull
+- ✅ Setup Github push
 - Setup Github pull
 - Test Github submission
 
