@@ -6,6 +6,6 @@ title: "Getting Started"
 
 1. Fork the Repository 
 
-    The Github repository is [here](https://github.com/Gabe-LSN/cyberfreedom.ca)
+    The Github repository is [here](https://code.gabe.rocks/gabriel/cyberfreedom)
 2. Make your Changes
 3. Create a pull request
