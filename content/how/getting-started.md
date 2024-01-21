@@ -8,4 +8,8 @@ title: "Getting Started"
 
     The Github repository is [here](https://code.gabe.rocks/gabriel/cyberfreedom)
 2. Make your Changes
-3. Create a pull request
+3. Publish your changes
+
+    - Github
+    - Gitlab
+    - Directly
